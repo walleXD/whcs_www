@@ -1,6 +1,6 @@
 <template lang="pug">
-  #default-layout
-    nuxt
+    #events-page
+        h1 Events
 </template>
 
 <script>
@@ -8,10 +8,10 @@ export default {
   components: {
   },
   data: () => ({
-    sideBar: false
   })
 }
 </script>
 
 <style lang="stylus" scoped>
+
 </style>
